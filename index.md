@@ -11,3 +11,9 @@ Hello!
 [CreateMultipleLinearRegressionModel_2022_09_16_164216_175](/experiment_results/CreateMultipleLinearRegressionModel_2022_09_16_164216_175/Output/Report.htm)
 
 [CalculateMolecularProperties_2022_09_16_164702_792](/experiment_results/CalculateMolecularProperties_2022_09_16_164702_792/Output/Report.htm)
+
+[GenerateTrainingandTestData_2022_09_17_181435_596](/experiment_results/GenerateTrainingandTestData_2022_09_17_181435_596/Output/Report.htm)
+
+[CreateBayesianModel_2022_09_17_181943_282](/experiment_results/CreateBayesianModel_2022_09_17_181943_282/Output/Report.htm)
+
+[CalculateMolecularProperties_2022_09_17_182155_807](/experiment_results/CalculateMolecularProperties_2022_09_17_182155_807/Output/Report.htm)
